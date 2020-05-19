@@ -14,3 +14,10 @@ Build Instructions:
 ```
     docker image ssh:latest <repo>/ssh:latest
 ```
+
+* SSH onto the container using:
+
+```
+    ssh root@<ip> -p <port>
+    ? Enter Password on Prompt
+```
